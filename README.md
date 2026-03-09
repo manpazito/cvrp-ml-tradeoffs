@@ -9,6 +9,7 @@ This repository supports ongoing research on the Capacitated Vehicle Routing Pro
 ## References
 
 - CVRPLib.
+- Sirui Li and Zhongxia Yan and Cathy Wu, "Learning to Delegate for Large-scale Vehicle Routing." https://doi.org/10.48550/arXiv.2107.04139
 - Florian Arnold, Michel Gendreau, Kenneth Sorensen. "Efficiently solving very large-scale routing problems." *Computers & Operations Research*, Volume 107, July 2019, Pages 32-42. https://doi.org/10.1016/j.cor.2019.03.006
 - Roberto Asin-Acha, Alexis Espinoza, Olivier Goldschmidt, Dorit S. Hochbaum, Isaias I. Huerta. "Selecting Fast Algorithms for the Capacitated Vehicle Routing Problem with Machine Learning Techniques."
 - Fei Liu, Chengyu Lu, Lin Gui, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan. "Heuristics for Vehicle Routing Problem: A Survey and Recent Advances."

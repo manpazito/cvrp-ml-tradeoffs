@@ -1,0 +1,3 @@
+[submodule "learning-to-delegate"]
+	path = learning-to-delegate
+	url = https://github.com/mit-wu-lab/learning-to-delegate

@@ -6,6 +6,15 @@ This repository supports ongoing research on the Capacitated Vehicle Routing Pro
 - Compare solution quality, runtime, and scalability against ML-oriented solvers.
 - Use established CVRP benchmark sets and prior literature to ground empirical comparisons.
 
+## Usage
+
+```
+python3.10 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
 ## References
 
 - CVRPLib.

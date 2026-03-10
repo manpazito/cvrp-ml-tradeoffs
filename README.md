@@ -9,8 +9,8 @@ This repository supports ongoing research on the Capacitated Vehicle Routing Pro
 ## Usage
 
 ```
-python3.10 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python3.10 -m venv venv     # On Windows: py -3.10 -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```

@@ -243,9 +243,9 @@ def _kick_solution(routes, move_map, moves, rng, demand, capacity, customer_set,
 def tabu_search(
     instance,
     initial_routes=None,
-    max_iterations=5000,
+    max_iterations=1000,
     tabu_tenure=35,
-    neighborhood_samples=120,
+    neighborhood_samples=50,
     seed=42,
     moves=(
         "intra_2opt",

@@ -213,8 +213,8 @@ def _intensify(instance, routes, use_local_search, lam):
 def ant_colony_optimization(
     instance,
     initial_routes=None,
-    num_ants=35,
-    iterations=250,
+    num_ants=15,
+    iterations=50,
     alpha=1.0,
     beta=3.0,
     evaporation_rate=0.15,

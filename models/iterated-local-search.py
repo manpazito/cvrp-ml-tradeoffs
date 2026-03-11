@@ -211,7 +211,7 @@ def _local_search(
 def iterated_local_search(
     instance,
     initial_routes=None,
-    max_iterations=500,
+    max_iterations=100,
     perturbation_strength=3,
     local_search_rounds=1,
     seed=42,

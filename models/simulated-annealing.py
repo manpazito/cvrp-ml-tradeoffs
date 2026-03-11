@@ -250,8 +250,8 @@ def simulated_annealing(
     initial_temperature=None,
     final_temperature=1e-3,
     cooling_rate=0.995,
-    iterations_per_temperature=200,
-    max_iterations=50000,
+    iterations_per_temperature=100,
+    max_iterations=5000,
     seed=42,
     moves=(
         "intra_2opt",

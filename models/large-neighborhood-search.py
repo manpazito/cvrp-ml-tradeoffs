@@ -242,7 +242,7 @@ def _intensify(instance, routes, use_local_search, lam):
 def large_neighborhood_search(
     instance,
     initial_routes=None,
-    max_iterations=400,
+    max_iterations=100,
     min_destroy_fraction=0.10,
     max_destroy_fraction=0.30,
     seed=42,
@@ -251,7 +251,7 @@ def large_neighborhood_search(
     cooling_rate=0.998,
     lam=3,
     use_local_search=True,
-    local_search_every=1,
+    local_search_every=3,
     diversification=True,
     stagnation_limit=60,
     return_history=True,

@@ -217,4 +217,11 @@ __marimo__/
 
 # Other files to ignore
 TODO.md
-outputs/
+outputs*/
+
+# From learning-to-delegate repo
+learning-to-delegate/*.o
+learning-to-delegate/lkh3/LKH-3.0.4/LKH
+learning-to-delegate/hgs/HGS-CVRP/Program/genvrp
+learning-to-delegate/exps/
+learning-to-delegate/generations/
